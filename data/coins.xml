@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<coin>
+<name>statercoin</name>
+<symbol>STC</symbol>
+<daemon>statercoind</daemon>
+<source>https://github.com/upggr/statercoin/archive/master.zip</source>
+<unzipcommand>unzip dafile -d statercoin</unzipcommand>
+<node1>44444</node1>
+<srcdir>statercoin/statercoin-master/src</srcdir>
+<poolip>ddd</poolip>
+<poolport>ddd</poolport>
+<filename>master.zip</filename>
+<diff>master.zip</diff>
+<miningstyle>solo</miningstyle>
+<enabled>0</enabled>
+<algo>SHA-256</algo>
+<price>0.00000055</price>
+<priceeur>0.0002611345</priceeur>
+<priceusd>0.000356895</priceusd>
+<profitability>4021.5440628687224</profitability>
+</coin>
